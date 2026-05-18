@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class OlaUsuario {
+public class olaUsuario {
     public static void main(String[] args) {
         // Criando o objeto Scanner para ler a entrada do teclado
         Scanner leitor = new Scanner(System.in);
